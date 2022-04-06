@@ -1,5 +1,5 @@
 {
-"SendMessage":1,
+"SendMessage":2,
 "MyMessage":
-" Welcome po sa NEW APP natin..."
+" MORE GOOD SERVERS TO COME. STAY TUNED"
 }
