@@ -1,5 +1,5 @@
 {
-"SendMessage":4,
+"SendMessage":5,
 "MyMessage":
-"SA MGA MALAPIT KO SA I LOG, DOBLE INGAT PO. MALAKAS NA ANG ULAN AT NONSTOP PA. MAGCHARGE NA NG MGA GADGETS AT POWERBANKS."
+"For PH USERS ONLY: SA GUSTO SUMALI SA EVENT Pasok na sa Group👉 https://www.facebook.com/groups/ce7ventunnelplus/permalink/1353382215140381/ 30load/gcash 12noon Cut-off."
 }
